@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Creepster&display=swap");
+
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/004/968/002/original/cute-abstract-modern-background-free-vector.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-size: large;
+  font-family: "Creepster", sans-serif;
+}
+.button {
+  margin: 15px;
+  padding: 10px;
+}
+.container {
+  margin-top: 30px;
+}
